@@ -1,0 +1,33 @@
+#CYBERWAR
+### This project is under development.
+
+#### **Description**:
+A network shooter with a 1st 3rd person view on the [Unreal Engine 5] engine (https://www.unrealengine.com/), in which players, divided into teams, perform various tasks and confront each other in different modes, Weapon customization is also available in the game.
+
+## Characteristics
+* Client: Unreal Engine 5.
+* Server: Java.
+* Database: MySql.
+
+## Components used:
+### Plugins:
+1. [LE Socket Connection](https://www.unrealengine.com/marketplace/low-entry-socket-connection "Paid")
+2. [LE Extended Standard Library](https://www.unrealengine.com/marketplace/low-entry-extended-standard-library "Free")
+3. [VaRest](https://www.unrealengine.com/marketplace/varest-plugin "Free")
+
+### BY:
+1. IntelliJ IDEA (server)
+2. MySql (database)
+3. Navicat (database management)
+4. Unreal Engine 5.4.3 (client)
+
+
+Original fork [MarynaMaryam](https://github.com/MarynaMaryam/Cyber-War )
+
+
+
+![Image 1](images/1.png)
+![Image 2](images/2.png)
+![Image 3](images/3.png)
+![Image 4](images/4.png)
+
