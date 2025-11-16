@@ -22,8 +22,6 @@ A network shooter with a 1st 3rd person view on the [Unreal Engine 5] engine (ht
 4. Unreal Engine 5.4.3 (client)
 
 
-Original fork [MarynaMaryam](https://github.com/MarynaMaryam/Cyber-War )
-
 
 
 ![Image 1](images/1.png)
